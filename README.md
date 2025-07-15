@@ -128,7 +128,7 @@ stroke-prediction-ml/
    pip install -r requirements.txt
    ```
 
-4. Download the dataset from [Kaggle](<(https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset?resource=download)>) and place the CSV file inside the data/ folder.
+4. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset?resource=download) and place the CSV file inside the data/ folder.
 
 5. Launch Jupyter Notebook and run the pipeline:
 
