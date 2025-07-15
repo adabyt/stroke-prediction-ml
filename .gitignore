@@ -1,5 +1,22 @@
-__pycache__/
+# Ignore Jupyter notebook checkpoints
 .ipynb_checkpoints/
-models/
-.env
+
+# Python cache
+__pycache__/
+
+# Virtual environment
+venv/
+
+# MacOS system files
 .DS_Store
+
+# Environment files
+.env
+
+# VSCode workspace settings
+.vscode/
+
+# Ignore outputs or temporary files you may generate
+*.pyc
+*.pyo
+*.pyd
